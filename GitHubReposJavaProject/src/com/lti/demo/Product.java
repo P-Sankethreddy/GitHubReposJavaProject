@@ -8,7 +8,7 @@ public class Product {
 	private String companyName="DMART";
 	
 	
-	public Product(int prdId, String prdName, double prdCost, String companyName) {
+	public Product(int prdId, String prdName, double prdCost) {
 		super();
 		this.prdId = prdId;
 		this.prdName = prdName;
